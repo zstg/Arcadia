@@ -131,7 +131,7 @@ zsh-syntax-highlighting
 
 # OS 
 grub
-arcadia-grub-config
+# arcadia-grub-config
 os-prober
 base
 base-devel
@@ -178,7 +178,6 @@ udisks2
 xdg-user-dirs
 
 # GTK/GNOME
-gdm
 cheese
 eog
 gdm
@@ -201,7 +200,7 @@ xdg-user-dirs-gtk
 
 # Calamares
 calamares
-arcadia-calamares-config
+# arcadia-calamares-config
 
 # Internet
 git

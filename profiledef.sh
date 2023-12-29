@@ -23,5 +23,5 @@ file_permissions=(
   ["/etc/shadow"]="0:0:0400"
   ["/etc/gshadow"]="0:0:0400"
   ["/etc/xdg/autostart/calamares.desktop"]="0:0:755"
-  ["/etc/skel/Desktop/calamares.desktop"]="0:0:755"
+  # ["/etc/skel/Desktop/calamares.desktop"]="0:0:755"
 )
